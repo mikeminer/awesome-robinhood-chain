@@ -11,3 +11,9 @@
 - `[live]` **[Arbitrum Orbit](https://arbitrum.io/orbit)** — the L2 stack Robinhood Chain is built on.
 - `[live]` **[Robinhood Chain RPC](https://robinhood.com)** — public JSON-RPC for reads and transactions.
 - `[live]` **Stock Tokens** — tokenized equities (NVDA, AAPL, GOOG…) as ERC-20s with 24/7 markets.
+
+## DEXs & Liquidity
+
+- `[live]` **[Uniswap](https://uniswap.org)** — live on Robinhood Chain from day one.
+- `[live]` **[1inch](https://1inch.io)** — DEX aggregator routing across pools.
+- `[beta]` **[Lighter](https://lighter.xyz)** — orderbook-style trading for Stock Tokens.
