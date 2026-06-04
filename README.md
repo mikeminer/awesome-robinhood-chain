@@ -17,3 +17,8 @@
 - `[live]` **[Uniswap](https://uniswap.org)** — live on Robinhood Chain from day one.
 - `[live]` **[1inch](https://1inch.io)** — DEX aggregator routing across pools.
 - `[beta]` **[Lighter](https://lighter.xyz)** — orderbook-style trading for Stock Tokens.
+
+## Oracles & Data
+
+- `[live]` **[Chainlink](https://chain.link)** — the canonical price oracle for Robinhood Chain.
+- `[beta]` **On-chain NAV feeds** — continuous mark prices for tokenized equities.
