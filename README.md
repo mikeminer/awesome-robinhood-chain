@@ -22,3 +22,8 @@
 
 - `[live]` **[Chainlink](https://chain.link)** — the canonical price oracle for Robinhood Chain.
 - `[beta]` **On-chain NAV feeds** — continuous mark prices for tokenized equities.
+
+## Wallets & Custody
+
+- `[live]` **[BitGo](https://bitgo.com)** — institutional custody for the ecosystem.
+- `[live]` **[Alchemy](https://alchemy.com)** — infra and account tooling.
