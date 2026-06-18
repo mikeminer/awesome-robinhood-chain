@@ -27,3 +27,8 @@
 
 - `[live]` **[BitGo](https://bitgo.com)** — institutional custody for the ecosystem.
 - `[live]` **[Alchemy](https://alchemy.com)** — infra and account tooling.
+
+## Developer Tooling
+
+- `[live]` **[viem](https://viem.sh)** — typed client that talks to Robinhood Chain out of the box.
+- `[beta]` **[Foundry](https://getfoundry.sh)** — deploy and test Orbit contracts.
