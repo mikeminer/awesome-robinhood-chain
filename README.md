@@ -32,3 +32,8 @@
 
 - `[live]` **[viem](https://viem.sh)** — typed client that talks to Robinhood Chain out of the box.
 - `[beta]` **[Foundry](https://getfoundry.sh)** — deploy and test Orbit contracts.
+
+## Agents & Automation
+
+- `[beta]` **[Bastion](https://github.com/adrydevel/bastion)** — autonomous, verifiable AI fund. A swarm of agents (running on [Nous Research](https://nousresearch.com) Hermes) trades tokenized stocks and anchors a proof of every decision on-chain.
+- `[experimental]` **Keeper bots** — recurring-buy and rebalance automation for Stock Tokens.
