@@ -6,6 +6,16 @@
 
 **Maturity tags:** `[live]` in production · `[beta]` public but early · `[experimental]` moving fast.
 
+## Contents
+
+- [Infrastructure](#infrastructure)
+- [DEXs & Liquidity](#dexs--liquidity)
+- [Oracles & Data](#oracles--data)
+- [Wallets & Custody](#wallets--custody)
+- [Developer Tooling](#developer-tooling)
+- [Agents & Automation](#agents--automation)
+- [Docs & Learning](#docs--learning)
+
 ## Infrastructure
 
 - `[live]` **[Arbitrum Orbit](https://arbitrum.io/orbit)** — the L2 stack Robinhood Chain is built on.
