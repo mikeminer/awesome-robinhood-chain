@@ -47,3 +47,8 @@
 
 - `[beta]` **[Bastion](https://github.com/adrydevel/bastion)** — autonomous, verifiable AI fund. A swarm of agents (running on [Nous Research](https://nousresearch.com) Hermes) trades tokenized stocks and anchors a proof of every decision on-chain.
 - `[experimental]` **Keeper bots** — recurring-buy and rebalance automation for Stock Tokens.
+
+## Docs & Learning
+
+- **[Robinhood Chain overview](https://robinhood.com)** — official announcement and docs.
+- **[Chainlink on Orbit](https://docs.chain.link)** — integrating the oracle.
