@@ -52,3 +52,11 @@
 
 - **[Robinhood Chain overview](https://robinhood.com)** — official announcement and docs.
 - **[Chainlink on Orbit](https://docs.chain.link)** — integrating the oracle.
+
+## Contributing
+
+Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md). Keep entries factual, one line, with a maturity tag.
+
+## License
+
+[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
