@@ -60,3 +60,4 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md). Keep entries f
 ## License
 
 [![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+<!-- curated by adrydevel -->
