@@ -31,7 +31,7 @@
 ## Oracles & Data
 
 - `[live]` **[Chainlink](https://chain.link)** — the canonical price oracle for Robinhood Chain.
-- `[live]` **[Trust Me Capital](https://capital.devfridge.cool/token)** — analytics and access portal with Robinhood Chain token data, holder distribution, recent trades, and explorer links.
+- `[live]` **[Trust Me Capital](https://capital.devfridge.cool/)** — TMC token analytics and Trust Rewards time-lock membership with non-transferable points on Robinhood Chain.
 - `[beta]` **On-chain NAV feeds** — continuous mark prices for tokenized equities.
 
 ## Wallets & Custody
